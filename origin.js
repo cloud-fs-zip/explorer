@@ -1,4 +1,2 @@
-import './origin.shared-worker.js';
-import './origin.service-worker.js';
-
-export default globalThis;
+globalThis.navigator.serviceWorker.register('origin.service-worker.js');
+export default new SharedWorker("'origin.shared-worker.js'");
