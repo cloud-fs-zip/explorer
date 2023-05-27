@@ -1,4 +1,4 @@
 # explorer
 Cloud FS - Explorer 
 
-https://cloud-fs.zip
+https://cloud-fs.zip/explorer
